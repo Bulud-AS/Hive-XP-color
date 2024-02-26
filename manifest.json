@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+      "description": "§lCreated by Bulud\n§c§oNo secondary distribution is allowed!",
+      "name": "Hive XP Color",
+      "uuid": "135b4890-b0a0-11ee-cac1-f952e263f8e9",
+      "version": [0, 0, 1]
+    },
+    "modules": [
+      {
+        "description": "§lCreated by Bulud\n§c§oNo secondary distribution is allowed!",
+        "type": "resources",
+        "uuid": "135b96b0-b0a0-11ee-9909-05e9016d11f7",
+        "version": [0, 0, 1]
+      }
+    ]
+  }
+  
