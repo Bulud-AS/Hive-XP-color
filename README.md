@@ -7,3 +7,5 @@ Change colors according to level values
 ・動画などで使用する際はここのgithubのURLを概要欄に記載すること。
 <br>
 ・このパック内のデータはいかなる場合でも絶対に流用しないこと。
+<br>
+・何か問題があればTwitter(X)のDMで報告してください
