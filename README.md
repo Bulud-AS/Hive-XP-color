@@ -12,5 +12,3 @@ Change colors according to level values
 
 # 注意
 このパックは予告なしにリポジトリが削除される可能性があります。
-<br>
-その時には**再配布は一切しません。**
